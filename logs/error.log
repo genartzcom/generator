@@ -1,0 +1,1724 @@
+2025-03-02 23:28:23 [error]: Error fetching example: ENOENT: no such file or directory, open '/Users/cinax/Desktop/genartzcom/web-app/generator/src/examples/p5.example.js' {
+  "service": "nft-service"
+}
+2025-03-02 23:28:23 [error]: Error fetching example: ENOENT: no such file or directory, open '/Users/cinax/Desktop/genartzcom/web-app/generator/src/examples/p5.example.js' {
+  "service": "nft-service"
+}
+2025-03-02 23:28:23 [error]: Error fetching example: ENOENT: no such file or directory, open '/Users/cinax/Desktop/genartzcom/web-app/generator/src/examples/p5.example.js' {
+  "service": "nft-service"
+}
+2025-03-02 23:28:24 [error]: Error fetching example: ENOENT: no such file or directory, open '/Users/cinax/Desktop/genartzcom/web-app/generator/src/examples/p5.example.js' {
+  "service": "nft-service"
+}
+2025-03-02 23:28:24 [error]: Error fetching example: ENOENT: no such file or directory, open '/Users/cinax/Desktop/genartzcom/web-app/generator/src/examples/p5.example.js' {
+  "service": "nft-service"
+}
+2025-03-03 10:19:39 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:19:39 [error]: Error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:22:50 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:22:50 [error]: Error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:23:41 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:23:41 [error]: Error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:24:25 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:24:25 [error]: Error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "7407",
+    "formattedMessage": "TypeError: Type int_const 0 is not implicitly convertible to expected type address.\n  --> contract.sol:23:33:\n   |\n23 | address private constant Test = 0x0;\n   |                                 ^^^\n\n",
+    "message": "Type int_const 0 is not implicitly convertible to expected type address.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 1171,
+      "file": "contract.sol",
+      "start": 1168
+    },
+    "type": "TypeError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:39:19 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:40:02 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:42:55 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:44:10 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:44:28 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:45:00 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 10:45:46 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:33:10 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:33:19 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:33:24 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:34:02 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:34:38 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
+2025-03-03 11:34:42 [error]: Precompilation error: Compilation errors: [
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.\n --> contract.sol:2:1:\n  |\n2 | import {ContractMetadata} from \"@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/ContractMetadata.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 113,
+      "file": "contract.sol",
+      "start": 25
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.\n --> contract.sol:3:1:\n  |\n3 | import {ERC721Cementable} from \"@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/token/ERC721/ERC721Cementable.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 206,
+      "file": "contract.sol",
+      "start": 114
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.\n --> contract.sol:4:1:\n  |\n4 | import {Ownable, Ownable2Step} from \"@openzeppelin/contracts/access/Ownable2Step.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/access/Ownable2Step.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 293,
+      "file": "contract.sol",
+      "start": 207
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.\n --> contract.sol:5:1:\n  |\n5 | import {ERC721 as ERC721OpenZeppelin} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 387,
+      "file": "contract.sol",
+      "start": 294
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.\n --> contract.sol:6:1:\n  |\n6 | import {IERC721} from \"@openzeppelin/contracts/token/ERC721/IERC721.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@openzeppelin/contracts/token/ERC721/IERC721.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 461,
+      "file": "contract.sol",
+      "start": 388
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.\n --> contract.sol:7:1:\n  |\n7 | import {TokenMetadataReader} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataReader.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 556,
+      "file": "contract.sol",
+      "start": 462
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.\n --> contract.sol:8:1:\n  |\n8 | import {TokenMetadataEditor} from \"@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/metadata/TokenMetadataEditor.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 651,
+      "file": "contract.sol",
+      "start": 557
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.\n --> contract.sol:9:1:\n  |\n9 | import {Strings} from \"@forma-dev/sdk/contracts/utils/Strings.sol\";\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Strings.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 719,
+      "file": "contract.sol",
+      "start": 652
+    },
+    "type": "ParserError"
+  },
+  {
+    "component": "general",
+    "errorCode": "6275",
+    "formattedMessage": "ParserError: Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.\n  --> contract.sol:10:1:\n   |\n10 | import {Base64} from \"@forma-dev/sdk/contracts/utils/Base64.sol\";\n   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\n",
+    "message": "Source \"node_modules/@forma-dev/sdk/contracts/utils/Base64.sol\" not found: Callback not supported.",
+    "severity": "error",
+    "sourceLocation": {
+      "end": 785,
+      "file": "contract.sol",
+      "start": 720
+    },
+    "type": "ParserError"
+  }
+] {
+  "service": "nft-service"
+}
